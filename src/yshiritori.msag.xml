@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>YSHIRITORI</ARBGB>
+    <MASTERLANG>J</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>YSHIRITORI</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>&amp;1 は存在しません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>YSHIRITORI</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>&amp;1 は使用できません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>YSHIRITORI</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>&amp;1 は既に使用されています</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>YSHIRITORI</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>&amp;1 の勝ちです</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>YSHIRITORI</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>&amp;1 の負けです</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
