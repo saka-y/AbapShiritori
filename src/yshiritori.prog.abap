@@ -77,7 +77,7 @@ CLASS lcl_shiritori IMPLEMENTATION.
       INNER JOIN mara AS a
         ON t~matnr = a~matnr
       WHERE a~mtart = 'UNBW'
-        AND a~matnr LIKE 'P%'
+        AND a~matnr LIKE 'P____'
         AND t~spras = 'J'
       ORDER BY t~matnr
       INTO TABLE @DATA(lt_makt).
